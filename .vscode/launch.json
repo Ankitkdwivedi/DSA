@@ -1,0 +1,637 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "second_largest_in_array",
+            "request": "launch",
+            "mainClass": "second_largest_in_array",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Amusing_joke",
+            "request": "launch",
+            "mainClass": "Amusing_joke",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "ArrayGame",
+            "request": "launch",
+            "mainClass": "ArrayGame",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "CB_string",
+            "request": "launch",
+            "mainClass": "CB_string",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "Histogram",
+            "request": "launch",
+            "mainClass": "Histogram",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "Longest_Palindromic_Subsequence",
+            "request": "launch",
+            "mainClass": "Longest_Palindromic_Subsequence",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "Merge_sort",
+            "request": "launch",
+            "mainClass": "Merge_sort",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "Merge_two_sorted_array",
+            "request": "launch",
+            "mainClass": "Merge_two_sorted_array",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "N_knight",
+            "request": "launch",
+            "mainClass": "N_knight",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "N_queens",
+            "request": "launch",
+            "mainClass": "N_queens",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "Partation_in_Array",
+            "request": "launch",
+            "mainClass": "Partation_in_Array",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "Queue",
+            "request": "launch",
+            "mainClass": "Queue",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "QueuePrac",
+            "request": "launch",
+            "mainClass": "QueuePrac",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "Queue_client",
+            "request": "launch",
+            "mainClass": "Queue_client",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "ReadDocFile",
+            "request": "launch",
+            "mainClass": "ReadDocFile",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "Recursion_Obedient_String",
+            "request": "launch",
+            "mainClass": "Recursion_Obedient_String",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "Solution1",
+            "request": "launch",
+            "mainClass": "Solution1",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "Dynamic_stack_client",
+            "request": "launch",
+            "mainClass": "Stack1.Dynamic_stack_client",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "Stack_client",
+            "request": "launch",
+            "mainClass": "Stack1.Stack_client",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "Time_space_comp",
+            "request": "launch",
+            "mainClass": "Time_space_comp",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "add_Stirngs",
+            "request": "launch",
+            "mainClass": "add_Stirngs",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "boy_or_girl",
+            "request": "launch",
+            "mainClass": "boy_or_girl",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "bubblesort",
+            "request": "launch",
+            "mainClass": "bubblesort",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "check_prime",
+            "request": "launch",
+            "mainClass": "check_prime",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "chessboard2",
+            "request": "launch",
+            "mainClass": "chessboard2",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "Merge_sort(1)",
+            "request": "launch",
+            "mainClass": "coding_blocks_online.Merge_sort",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "Quick_sort",
+            "request": "launch",
+            "mainClass": "coding_blocks_online.Quick_sort",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "coin_combination",
+            "request": "launch",
+            "mainClass": "coin_combination",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "coin_permutation",
+            "request": "launch",
+            "mainClass": "coin_permutation",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "combination_leetcode",
+            "request": "launch",
+            "mainClass": "combination_leetcode",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "cycle_linked_client",
+            "request": "launch",
+            "mainClass": "cycle_linked_client",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "cyclesort",
+            "request": "launch",
+            "mainClass": "cyclesort",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "flip_sliding_window",
+            "request": "launch",
+            "mainClass": "flip_sliding_window",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "gcd",
+            "request": "launch",
+            "mainClass": "gcd",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "generate_paran",
+            "request": "launch",
+            "mainClass": "generate_paran",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "good_string",
+            "request": "launch",
+            "mainClass": "good_string",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "histogram_anuj",
+            "request": "launch",
+            "mainClass": "histogram_anuj",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "hoodies",
+            "request": "launch",
+            "mainClass": "hoodies",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "insertionsort",
+            "request": "launch",
+            "mainClass": "insertionsort",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "keypad",
+            "request": "launch",
+            "mainClass": "keypad",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "linked_list_client",
+            "request": "launch",
+            "mainClass": "linked_list_client",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "mapped",
+            "request": "launch",
+            "mainClass": "mapped",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "matrixrecursion",
+            "request": "launch",
+            "mainClass": "matrixrecursion",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "maximal_ractangle",
+            "request": "launch",
+            "mainClass": "maximal_ractangle",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "maximum_1793",
+            "request": "launch",
+            "mainClass": "maximum_1793",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "microsoft_online_assessment",
+            "request": "launch",
+            "mainClass": "microsoft_online_assessment",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "next_greater_element",
+            "request": "launch",
+            "mainClass": "next_greater_element",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "nknight",
+            "request": "launch",
+            "mainClass": "nknight",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "obdi",
+            "request": "launch",
+            "mainClass": "obdi",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "only_ladder",
+            "request": "launch",
+            "mainClass": "only_ladder",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "palindrome_substring",
+            "request": "launch",
+            "mainClass": "palindrome_substring",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "palindrome_substring647",
+            "request": "launch",
+            "mainClass": "palindrome_substring647",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "patching_array",
+            "request": "launch",
+            "mainClass": "patching_array",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "permutation",
+            "request": "launch",
+            "mainClass": "permutation",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "perwithnorepeattion",
+            "request": "launch",
+            "mainClass": "perwithnorepeattion",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "power",
+            "request": "launch",
+            "mainClass": "power",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "print_substring",
+            "request": "launch",
+            "mainClass": "print_substring",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "queen",
+            "request": "launch",
+            "mainClass": "queen",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "queen_array",
+            "request": "launch",
+            "mainClass": "queen_array",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "queen_combination",
+            "request": "launch",
+            "mainClass": "queen_combination",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "queue_ques",
+            "request": "launch",
+            "mainClass": "queue_ques",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "quick_sort",
+            "request": "launch",
+            "mainClass": "quick_sort",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "rat_in_a_maze",
+            "request": "launch",
+            "mainClass": "rat_in_a_maze",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "rec_practise",
+            "request": "launch",
+            "mainClass": "rec_practise",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "seive_prime",
+            "request": "launch",
+            "mainClass": "seive_prime",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "selectionsort",
+            "request": "launch",
+            "mainClass": "selectionsort",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "sliding_window",
+            "request": "launch",
+            "mainClass": "sliding_window",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "soft_drinking",
+            "request": "launch",
+            "mainClass": "soft_drinking",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "splitarray",
+            "request": "launch",
+            "mainClass": "splitarray",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "spriralmatrix",
+            "request": "launch",
+            "mainClass": "spriralmatrix",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "stack_ques1",
+            "request": "launch",
+            "mainClass": "stack_ques1",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "stack_ques2",
+            "request": "launch",
+            "mainClass": "stack_ques2",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "stack_ques3",
+            "request": "launch",
+            "mainClass": "stack_ques3",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "stack_using_queue",
+            "request": "launch",
+            "mainClass": "stack_using_queue",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "stock_span",
+            "request": "launch",
+            "mainClass": "stock_span",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "subsequence_ascii",
+            "request": "launch",
+            "mainClass": "subsequence_ascii",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "subset_array",
+            "request": "launch",
+            "mainClass": "subset_array",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "substring",
+            "request": "launch",
+            "mainClass": "substring",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "substring_permutations",
+            "request": "launch",
+            "mainClass": "substring_permutations",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "sudoku_solver",
+            "request": "launch",
+            "mainClass": "sudoku_solver",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "susbarraysum",
+            "request": "launch",
+            "mainClass": "susbarraysum",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "two_d_queen",
+            "request": "launch",
+            "mainClass": "two_d_queen",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "twodarray_inalternateorder",
+            "request": "launch",
+            "mainClass": "twodarray_inalternateorder",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "twodarrayin_another_alternateorder",
+            "request": "launch",
+            "mainClass": "twodarrayin_another_alternateorder",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "vivek_loves",
+            "request": "launch",
+            "mainClass": "vivek_loves",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
+            "name": "word_search",
+            "request": "launch",
+            "mainClass": "word_search",
+            "projectName": "super150_2697f7f7"
+        }
+    ]
+}

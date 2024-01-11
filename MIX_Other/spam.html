@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Spam Detector</title>
+    <link rel="stylesheet" type="text/css" href="spam.css">
+	<style>
+		form {
+			width: 500px;
+			margin: 0 auto;
+			padding: 20px;
+			background-color: #f2f2f2;
+			border-radius: 10px;
+		}
+		
+		input[type="submit"] {
+			background-color: #4CAF50;
+			color: white;
+			border: none;
+			padding: 10px 20px;
+			border-radius: 5px;
+			cursor: pointer;
+		}
+		
+		.warning {
+			color: red;
+			font-weight: bold;
+			margin-top: 10px;
+		}
+	</style>
+</head>
+<body>
+	<form onsubmit="return checkForSpam()">
+		<label for="message">Message:</label><br>
+		<textarea id="message" name="message"></textarea><br>
+		<input type="submit" value="Submit">
+	</form>
+	
+	<script>
+		function checkForSpam() {
+			var message = document.getElementById("message").value;
+			var spamWords = ["viagra", "lottery", "prince", "inheritance"];
+			
+			for (var i = 0; i < spamWords.length; i++) {
+				if (message.includes(spamWords[i])) {
+					document.getElementById("message").value = "";
+					document.querySelector(".warning").textContent = "Warning: Your message contains spam!";
+					return false;
+				}
+			}
+			
+			return true;
+		}
+	</script>
+	
+	<div class="warning"></div>
+</body>
+</html>
