@@ -55,3 +55,47 @@ public class Topological_Sort {
         ts.Topological();
     }
 }
+
+
+
+
+
+
+
+
+//striver's logic is here 
+
+//use stack and store the node in dfs 
+
+
+
+
+
+
+// class Solution
+// {
+//     //Function to return list containing vertices in Topological order. 
+//     static int[] topoSort(int V, ArrayList<ArrayList<Integer>> adj) 
+//     {
+//         // add your code here
+//         int []vis=new int [V];
+//         Stack<Integer> st=new Stack<>();
+//         for(int i=0;i<adj.size();i++){
+//             if(vis[i]==0){
+//                 dfs(adj,vis,st,i);
+//             }
+//         }
+//         int ans[]=new int[V];
+//         for(int i=0;i<V;i++){
+//             ans[i]=st.pop();
+//         }
+//         return ans;
+//     }
+//     static void dfs(ArrayList<ArrayList<Integer>> adj,int vis[],Stack<Integer> st,int node){
+//         vis[node]=1;
+//         for(int nbrs:adj.get(node)){
+//             if(vis[nbrs]==0) dfs(adj,vis,st,nbrs);
+//         }
+//         st.push(node);
+//     }
+// }

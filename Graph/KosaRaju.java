@@ -1,5 +1,6 @@
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.Scanner;
 import java.util.Stack;
 
 public class KosaRaju {
@@ -69,4 +70,17 @@ public class KosaRaju {
             }
     }
     }
+     public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        KosaRaju ks = new KosaRaju(n);
+        int m = sc.nextInt();
+        for(int i=0;i<m;i++){
+            int e1 = sc.nextInt();
+            int e2 = sc.nextInt();
+            ks.AddEdge(e1, e2);
+        }
+        ks.KosaRajuAlgo();
+    }
+
 }
