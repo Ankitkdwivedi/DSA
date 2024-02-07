@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Minimum_Xor",
+            "request": "launch",
+            "mainClass": "Bit_Masking.Minimum_Xor",
+            "projectName": "super150_2697f7f7"
+        },
+        {
+            "type": "java",
             "name": "second_largest_in_array",
             "request": "launch",
             "mainClass": "second_largest_in_array",
