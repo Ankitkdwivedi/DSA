@@ -1,4 +1,4 @@
-package Bit_Masking;
+package Trie;
 
 import java.util.ArrayList;
 import java.util.HashMap;

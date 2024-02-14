@@ -1,4 +1,4 @@
-package Bit_Masking;
+package Trie;
 
 public class Max_Xor_in_array {
     public class Node{
