@@ -79,7 +79,7 @@ public class Topological_Sort {
 //     {
 //         // add your code here
 //         int []vis=new int [V];
-//         Stack<Integer> st=new Stack<>();
+//         Stack<Integer> st=new Stack<>();//taki ordering ulta kr sken
 //         for(int i=0;i<adj.size();i++){
 //             if(vis[i]==0){
 //                 dfs(adj,vis,st,i);
